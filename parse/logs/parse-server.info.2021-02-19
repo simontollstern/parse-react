@@ -1,0 +1,121 @@
+{"level":"info","message":"Parse LiveQuery Server starts running","timestamp":"2021-02-19T15:35:38.693Z"}
+{"level":"info","message":"Create new client: e8cc986a-d5da-4590-9d45-99c3e301d9b1","timestamp":"2021-02-19T15:35:45.620Z"}
+{"level":"info","message":"Client disconnect: e8cc986a-d5da-4590-9d45-99c3e301d9b1","timestamp":"2021-02-19T15:38:12.548Z"}
+{"level":"info","message":"Create new client: 9d5d324b-0bfd-48db-bcf4-c1ec0616e8a6","timestamp":"2021-02-19T15:38:12.904Z"}
+{"level":"info","message":"Client disconnect: 9d5d324b-0bfd-48db-bcf4-c1ec0616e8a6","timestamp":"2021-02-19T15:40:36.157Z"}
+{"level":"info","message":"Create new client: 6c79157b-ac96-4ab7-be6d-b7952dd9beb6","timestamp":"2021-02-19T15:40:36.525Z"}
+{"level":"info","message":"Client disconnect: 6c79157b-ac96-4ab7-be6d-b7952dd9beb6","timestamp":"2021-02-19T15:41:06.874Z"}
+{"level":"info","message":"Create new client: 68bea9a0-1ba5-409d-a548-11ffe4190c40","timestamp":"2021-02-19T15:41:07.183Z"}
+{"level":"info","message":"Client disconnect: 68bea9a0-1ba5-409d-a548-11ffe4190c40","timestamp":"2021-02-19T15:53:03.532Z"}
+{"level":"info","message":"Create new client: 5cc31b53-def9-474f-8744-aec6805f13ad","timestamp":"2021-02-19T15:53:03.871Z"}
+{"message":"Object not found for delete.","code":101,"level":"error","stack":"Error: Object not found for delete.\n    at /Users/simon/Projects/parse-react/parse/node_modules/parse-server/lib/rest.js:93:15\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","timestamp":"2021-02-19T15:53:06.932Z"}
+{"message":"Object not found for delete.","code":101,"level":"error","stack":"Error: Object not found for delete.\n    at /Users/simon/Projects/parse-react/parse/node_modules/parse-server/lib/rest.js:93:15\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","timestamp":"2021-02-19T15:53:09.513Z"}
+{"message":"Object not found for delete.","code":101,"level":"error","stack":"Error: Object not found for delete.\n    at /Users/simon/Projects/parse-react/parse/node_modules/parse-server/lib/rest.js:93:15\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","timestamp":"2021-02-19T15:53:12.357Z"}
+{"message":"Object not found for delete.","code":101,"level":"error","stack":"Error: Object not found for delete.\n    at /Users/simon/Projects/parse-react/parse/node_modules/parse-server/lib/rest.js:93:15\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","timestamp":"2021-02-19T15:53:16.525Z"}
+{"level":"info","message":"Client disconnect: 5cc31b53-def9-474f-8744-aec6805f13ad","timestamp":"2021-02-19T15:53:18.229Z"}
+{"level":"info","message":"Create new client: 7b0acaac-5d2d-4ab2-a17f-8766b47c1420","timestamp":"2021-02-19T15:53:18.591Z"}
+{"level":"info","message":"Client disconnect: 7b0acaac-5d2d-4ab2-a17f-8766b47c1420","timestamp":"2021-02-19T15:53:21.337Z"}
+{"level":"info","message":"Create new client: e32a1992-dc46-4f33-bb35-768f50407cac","timestamp":"2021-02-19T15:53:21.569Z"}
+{"level":"info","message":"Client disconnect: e32a1992-dc46-4f33-bb35-768f50407cac","timestamp":"2021-02-19T15:53:37.332Z"}
+{"level":"info","message":"Create new client: 20f1e071-09e6-40ec-bdb4-27326fffd395","timestamp":"2021-02-19T15:53:37.628Z"}
+{"level":"info","message":"Client disconnect: 20f1e071-09e6-40ec-bdb4-27326fffd395","timestamp":"2021-02-19T15:54:22.747Z"}
+{"level":"info","message":"Create new client: 0008248c-2f28-4b5a-b49c-f7fa11277a67","timestamp":"2021-02-19T15:54:22.989Z"}
+{"message":"Object not found for delete.","code":101,"level":"error","stack":"Error: Object not found for delete.\n    at /Users/simon/Projects/parse-react/parse/node_modules/parse-server/lib/rest.js:93:15\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","timestamp":"2021-02-19T15:54:24.696Z"}
+{"level":"info","message":"Client disconnect: 0008248c-2f28-4b5a-b49c-f7fa11277a67","timestamp":"2021-02-19T15:54:25.306Z"}
+{"level":"info","message":"Create new client: 20ec2eaa-4e71-47df-aa18-0fcbd2ca1e0c","timestamp":"2021-02-19T15:54:25.591Z"}
+{"message":"Object not found for delete.","code":101,"level":"error","stack":"Error: Object not found for delete.\n    at /Users/simon/Projects/parse-react/parse/node_modules/parse-server/lib/rest.js:93:15\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","timestamp":"2021-02-19T15:54:29.689Z"}
+{"level":"info","message":"Client disconnect: 20ec2eaa-4e71-47df-aa18-0fcbd2ca1e0c","timestamp":"2021-02-19T15:54:30.203Z"}
+{"level":"info","message":"Create new client: 199db2dd-fd52-4b2c-a204-fa707c289c6d","timestamp":"2021-02-19T15:54:30.499Z"}
+{"level":"info","message":"Client disconnect: 199db2dd-fd52-4b2c-a204-fa707c289c6d","timestamp":"2021-02-19T15:54:36.028Z"}
+{"level":"info","message":"Create new client: a8f0a1de-2fd8-4af3-9766-e791ef3bc22f","timestamp":"2021-02-19T15:54:36.248Z"}
+{"level":"info","message":"Client disconnect: a8f0a1de-2fd8-4af3-9766-e791ef3bc22f","timestamp":"2021-02-19T15:54:37.508Z"}
+{"level":"info","message":"Create new client: ae2534d1-c1f3-45c3-a93b-9ddfcd03ed6e","timestamp":"2021-02-19T15:54:37.774Z"}
+{"level":"info","message":"Client disconnect: ae2534d1-c1f3-45c3-a93b-9ddfcd03ed6e","timestamp":"2021-02-19T15:54:38.210Z"}
+{"level":"info","message":"Create new client: 67fc1a39-4130-43fd-990b-764bce4d4667","timestamp":"2021-02-19T15:54:38.443Z"}
+{"level":"info","message":"Client disconnect: 67fc1a39-4130-43fd-990b-764bce4d4667","timestamp":"2021-02-19T15:54:38.888Z"}
+{"level":"info","message":"Create new client: cbe3938a-489e-4fa1-813a-986d60fe42aa","timestamp":"2021-02-19T15:54:39.143Z"}
+{"level":"info","message":"Client disconnect: cbe3938a-489e-4fa1-813a-986d60fe42aa","timestamp":"2021-02-19T15:55:05.976Z"}
+{"level":"info","message":"Create new client: 3549d065-8355-4f38-89f0-8c5f7ab135e6","timestamp":"2021-02-19T15:55:06.205Z"}
+{"level":"info","message":"Client disconnect: 3549d065-8355-4f38-89f0-8c5f7ab135e6","timestamp":"2021-02-19T15:55:29.655Z"}
+{"level":"info","message":"Create new client: f4f9f1fe-44df-473a-916d-9195a908ef87","timestamp":"2021-02-19T15:55:29.907Z"}
+{"level":"info","message":"Client disconnect: f4f9f1fe-44df-473a-916d-9195a908ef87","timestamp":"2021-02-19T15:55:41.033Z"}
+{"level":"info","message":"Create new client: df402758-c020-4481-b253-5e8a76c09440","timestamp":"2021-02-19T15:55:41.315Z"}
+{"level":"info","message":"Client disconnect: df402758-c020-4481-b253-5e8a76c09440","timestamp":"2021-02-19T15:55:41.953Z"}
+{"level":"info","message":"Create new client: 3182a68e-913a-498a-9c3b-786575d5b38a","timestamp":"2021-02-19T15:55:42.209Z"}
+{"level":"info","message":"Client disconnect: 3182a68e-913a-498a-9c3b-786575d5b38a","timestamp":"2021-02-19T15:55:42.952Z"}
+{"level":"info","message":"Create new client: 0258146c-9fed-4eb4-9026-cae760251fa9","timestamp":"2021-02-19T15:55:43.178Z"}
+{"level":"info","message":"Client disconnect: 0258146c-9fed-4eb4-9026-cae760251fa9","timestamp":"2021-02-19T15:59:32.577Z"}
+{"level":"info","message":"Create new client: 4444bc3f-cf11-4d9a-bb88-def9eb4c2fe5","timestamp":"2021-02-19T15:59:32.830Z"}
+{"level":"info","message":"Client disconnect: 4444bc3f-cf11-4d9a-bb88-def9eb4c2fe5","timestamp":"2021-02-19T15:59:34.692Z"}
+{"level":"info","message":"Create new client: e02e82bf-233f-4dcf-8702-9a57d840acaf","timestamp":"2021-02-19T15:59:34.896Z"}
+{"level":"info","message":"Client disconnect: e02e82bf-233f-4dcf-8702-9a57d840acaf","timestamp":"2021-02-19T15:59:45.540Z"}
+{"level":"info","message":"Create new client: 767e9693-a44b-42f8-90f6-0a1e13ffd26d","timestamp":"2021-02-19T15:59:45.778Z"}
+{"level":"info","message":"Client disconnect: 767e9693-a44b-42f8-90f6-0a1e13ffd26d","timestamp":"2021-02-19T16:02:33.386Z"}
+{"level":"info","message":"Create new client: fbff9efd-fa59-46d1-a774-204fc5eaa620","timestamp":"2021-02-19T16:02:33.611Z"}
+{"level":"info","message":"Client disconnect: fbff9efd-fa59-46d1-a774-204fc5eaa620","timestamp":"2021-02-19T16:02:52.414Z"}
+{"level":"info","message":"Create new client: f237a285-7695-4007-b625-d1850e108596","timestamp":"2021-02-19T16:02:52.906Z"}
+{"level":"info","message":"Client disconnect: f237a285-7695-4007-b625-d1850e108596","timestamp":"2021-02-19T16:04:18.468Z"}
+{"level":"info","message":"Create new client: 7d11b3df-5ad0-46ef-9ec9-c7d45e37b6af","timestamp":"2021-02-19T16:04:18.786Z"}
+{"level":"info","message":"Client disconnect: 7d11b3df-5ad0-46ef-9ec9-c7d45e37b6af","timestamp":"2021-02-19T16:04:22.343Z"}
+{"level":"info","message":"Create new client: f99e7448-d25c-41f3-a430-902eedd13b4b","timestamp":"2021-02-19T16:04:22.629Z"}
+{"level":"info","message":"Client disconnect: f99e7448-d25c-41f3-a430-902eedd13b4b","timestamp":"2021-02-19T16:04:43.076Z"}
+{"level":"info","message":"Create new client: 563aa55a-2a52-4faf-aa40-7727c1b0b58b","timestamp":"2021-02-19T16:04:43.426Z"}
+{"level":"info","message":"Client disconnect: 563aa55a-2a52-4faf-aa40-7727c1b0b58b","timestamp":"2021-02-19T16:05:12.481Z"}
+{"level":"info","message":"Create new client: 00ddd48e-9d8f-4f03-81be-916fd0f82cdf","timestamp":"2021-02-19T16:05:12.748Z"}
+{"level":"info","message":"Client disconnect: 00ddd48e-9d8f-4f03-81be-916fd0f82cdf","timestamp":"2021-02-19T16:05:37.233Z"}
+{"level":"info","message":"Create new client: 84eea2ba-ac43-427e-9963-bc210c77b971","timestamp":"2021-02-19T16:05:37.476Z"}
+{"level":"info","message":"Client disconnect: 84eea2ba-ac43-427e-9963-bc210c77b971","timestamp":"2021-02-19T16:05:52.884Z"}
+{"level":"info","message":"Create new client: 619c2836-6985-4bae-be36-b0a72b166e6f","timestamp":"2021-02-19T16:05:53.146Z"}
+{"level":"info","message":"Client disconnect: 619c2836-6985-4bae-be36-b0a72b166e6f","timestamp":"2021-02-19T16:05:56.417Z"}
+{"level":"info","message":"Create new client: 4a0ffac0-d21b-483e-bbb0-bf8395e3eae0","timestamp":"2021-02-19T16:05:56.627Z"}
+{"level":"info","message":"Client disconnect: 4a0ffac0-d21b-483e-bbb0-bf8395e3eae0","timestamp":"2021-02-19T16:06:02.552Z"}
+{"level":"info","message":"Create new client: 3816e18e-5f48-4c7c-a66b-95613e95b84f","timestamp":"2021-02-19T16:06:02.758Z"}
+{"level":"info","message":"Client disconnect: 3816e18e-5f48-4c7c-a66b-95613e95b84f","timestamp":"2021-02-19T16:06:39.804Z"}
+{"level":"info","message":"Create new client: fd6ddccc-e1b4-4ead-9f7c-136d0db27592","timestamp":"2021-02-19T16:06:40.046Z"}
+{"level":"info","message":"Client disconnect: fd6ddccc-e1b4-4ead-9f7c-136d0db27592","timestamp":"2021-02-19T16:06:59.654Z"}
+{"level":"info","message":"Create new client: 7ebf2142-20c3-47a4-9fd1-08980f07931b","timestamp":"2021-02-19T16:06:59.940Z"}
+{"level":"info","message":"Client disconnect: 7ebf2142-20c3-47a4-9fd1-08980f07931b","timestamp":"2021-02-19T16:09:24.605Z"}
+{"level":"info","message":"Create new client: 155424db-0c3a-477f-aef1-e1bcfd0cabc3","timestamp":"2021-02-19T16:09:24.855Z"}
+{"level":"info","message":"Client disconnect: 155424db-0c3a-477f-aef1-e1bcfd0cabc3","timestamp":"2021-02-19T16:10:24.022Z"}
+{"level":"info","message":"Create new client: c5e2fe77-d9e2-4a02-85ac-b356c4b75131","timestamp":"2021-02-19T16:10:24.308Z"}
+{"level":"info","message":"Client disconnect: c5e2fe77-d9e2-4a02-85ac-b356c4b75131","timestamp":"2021-02-19T16:10:28.298Z"}
+{"level":"info","message":"Create new client: 483b38c5-722a-4467-937e-dc53321222ab","timestamp":"2021-02-19T16:10:28.522Z"}
+{"level":"info","message":"Client disconnect: 483b38c5-722a-4467-937e-dc53321222ab","timestamp":"2021-02-19T16:10:37.429Z"}
+{"level":"info","message":"Create new client: 881b2e56-331e-4968-9c13-a0e85b3ce4c2","timestamp":"2021-02-19T16:10:37.656Z"}
+{"level":"info","message":"Client disconnect: 881b2e56-331e-4968-9c13-a0e85b3ce4c2","timestamp":"2021-02-19T16:11:11.321Z"}
+{"level":"info","message":"Create new client: 9de2a979-4521-4a98-aa42-cc8c142f4b35","timestamp":"2021-02-19T16:11:11.628Z"}
+{"level":"info","message":"Client disconnect: 9de2a979-4521-4a98-aa42-cc8c142f4b35","timestamp":"2021-02-19T16:14:57.600Z"}
+{"level":"info","message":"Create new client: c6bdeb6a-e1b7-4908-b6ad-76d3fd18da54","timestamp":"2021-02-19T16:14:57.837Z"}
+{"level":"info","message":"Client disconnect: c6bdeb6a-e1b7-4908-b6ad-76d3fd18da54","timestamp":"2021-02-19T16:15:11.249Z"}
+{"level":"info","message":"Create new client: ffaee4f6-0e77-4124-8628-4dad2af0a72f","timestamp":"2021-02-19T16:15:11.519Z"}
+{"level":"info","message":"Client disconnect: ffaee4f6-0e77-4124-8628-4dad2af0a72f","timestamp":"2021-02-19T16:15:29.884Z"}
+{"level":"info","message":"Create new client: 9c72c08a-7c7a-4473-82fb-a9d5e23596a0","timestamp":"2021-02-19T16:15:30.148Z"}
+{"level":"info","message":"Client disconnect: 9c72c08a-7c7a-4473-82fb-a9d5e23596a0","timestamp":"2021-02-19T16:15:32.244Z"}
+{"level":"info","message":"Create new client: f73b3c77-4109-43a6-949a-c52920576769","timestamp":"2021-02-19T16:15:32.503Z"}
+{"level":"info","message":"Client disconnect: f73b3c77-4109-43a6-949a-c52920576769","timestamp":"2021-02-19T16:15:34.482Z"}
+{"level":"info","message":"Create new client: 525f55d7-799f-45dc-b922-9fde5d0bc0cb","timestamp":"2021-02-19T16:15:34.662Z"}
+{"level":"info","message":"Client disconnect: 525f55d7-799f-45dc-b922-9fde5d0bc0cb","timestamp":"2021-02-19T16:17:51.865Z"}
+{"level":"info","message":"Create new client: 5d33e28a-3143-4333-9e5a-b2ca11bdbc28","timestamp":"2021-02-19T16:17:52.125Z"}
+{"level":"info","message":"Client disconnect: 5d33e28a-3143-4333-9e5a-b2ca11bdbc28","timestamp":"2021-02-19T16:18:02.020Z"}
+{"level":"info","message":"Create new client: c84463a1-34e6-4981-b979-bc6664360066","timestamp":"2021-02-19T16:18:02.267Z"}
+{"level":"info","message":"Client disconnect: c84463a1-34e6-4981-b979-bc6664360066","timestamp":"2021-02-19T16:18:46.052Z"}
+{"level":"info","message":"Create new client: 1eef4e59-27a8-4961-bdd1-593a5b0bbaa9","timestamp":"2021-02-19T16:18:46.338Z"}
+{"level":"info","message":"Client disconnect: 1eef4e59-27a8-4961-bdd1-593a5b0bbaa9","timestamp":"2021-02-19T16:18:50.051Z"}
+{"level":"info","message":"Create new client: 706e2e2f-6780-4637-b49d-4b44b6f2b71b","timestamp":"2021-02-19T16:18:50.256Z"}
+{"level":"info","message":"Client disconnect: 706e2e2f-6780-4637-b49d-4b44b6f2b71b","timestamp":"2021-02-19T16:19:09.208Z"}
+{"level":"info","message":"Create new client: b9fc81d4-f774-4ded-8665-6ffc51fc9f44","timestamp":"2021-02-19T16:19:09.443Z"}
+{"message":"Object not found for delete.","code":101,"level":"error","stack":"Error: Object not found for delete.\n    at /Users/simon/Projects/parse-react/parse/node_modules/parse-server/lib/rest.js:93:15\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","timestamp":"2021-02-19T16:19:12.424Z"}
+{"level":"info","message":"Client disconnect: b9fc81d4-f774-4ded-8665-6ffc51fc9f44","timestamp":"2021-02-19T16:19:14.486Z"}
+{"level":"info","message":"Create new client: e4910326-c9f8-4664-b7f0-7cd703b4d38b","timestamp":"2021-02-19T16:19:14.730Z"}
+{"level":"info","message":"Client disconnect: e4910326-c9f8-4664-b7f0-7cd703b4d38b","timestamp":"2021-02-19T16:19:16.278Z"}
+{"level":"info","message":"Create new client: 7307c5e5-1b56-4ce5-bd3f-7d0fc344d794","timestamp":"2021-02-19T16:19:16.521Z"}
+{"level":"info","message":"Client disconnect: 7307c5e5-1b56-4ce5-bd3f-7d0fc344d794","timestamp":"2021-02-19T16:24:01.287Z"}
+{"level":"info","message":"Create new client: b6e911b9-d09a-4de7-b8ad-003ae4808e76","timestamp":"2021-02-19T16:24:25.265Z"}
+{"level":"info","message":"Client disconnect: b6e911b9-d09a-4de7-b8ad-003ae4808e76","timestamp":"2021-02-19T16:24:44.503Z"}
+{"level":"info","message":"Create new client: 8389cc42-41e5-4f7e-a6ca-3ba53ed4c674","timestamp":"2021-02-19T16:24:44.838Z"}
+{"level":"info","message":"Client disconnect: 8389cc42-41e5-4f7e-a6ca-3ba53ed4c674","timestamp":"2021-02-19T16:25:00.827Z"}
+{"level":"info","message":"Create new client: cdac9955-6f76-4597-b297-bd8c69b8b8d9","timestamp":"2021-02-19T16:25:01.099Z"}
+{"level":"info","message":"Client disconnect: cdac9955-6f76-4597-b297-bd8c69b8b8d9","timestamp":"2021-02-19T16:25:25.833Z"}
+{"level":"info","message":"Create new client: 25a73ec5-07bf-4321-b135-aadaa88540d4","timestamp":"2021-02-19T16:25:26.107Z"}
+{"level":"info","message":"Client disconnect: 25a73ec5-07bf-4321-b135-aadaa88540d4","timestamp":"2021-02-19T16:29:13.260Z"}
+{"level":"info","message":"Create new client: da114ee6-68cf-4ba9-a575-06665339c6ba","timestamp":"2021-02-19T16:29:14.729Z"}
