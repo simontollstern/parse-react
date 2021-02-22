@@ -1,9 +1,11 @@
 # Quick demo of parse + react w/ LiveQueries
 
-- Make sure you have mongodb-runner installed
+- Make sure you have mongodb-runner installed and running
+  - This also requires mongodb to be installed
 
 ```
 npm i -g mongodb-runner
+mongodb-runner start
 ```
 
 - Start the parse-server
